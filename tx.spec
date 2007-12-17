@@ -11,7 +11,6 @@ Source:		tx_1-2_src.tar.bz2
 URL:		http://www.gravitybind.com/
 License:	GPL
 Group:		Editors
-BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildRequires:	ImageMagick
 BuildRequires:	qt4-devel
 
