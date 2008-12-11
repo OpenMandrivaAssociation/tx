@@ -12,7 +12,7 @@ URL:		http://www.gravitybind.com/
 License:	GPL
 Group:		Editors
 BuildRoot:	%{_tmppath}/%{name}-buildroot
-BuildRequires:	ImageMagick
+BuildRequires:	imagemagick
 BuildRequires:	qt4-devel
 
 %description
