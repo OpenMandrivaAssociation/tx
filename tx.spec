@@ -8,7 +8,7 @@ Version: 	%{version}
 Release: 	%{release}
 
 Source:		tx_1-2_src.tar.bz2
-URL:		http://www.gravitybind.com/
+URL:		https://www.gravitybind.com/
 License:	GPL
 Group:		Editors
 BuildRoot:	%{_tmppath}/%{name}-buildroot
