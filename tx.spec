@@ -1,6 +1,6 @@
 %define name	tx
 %define version	1.2
-%define release %mkrel 5
+%define release 6
 
 Name: 	 	%{name}
 Summary: 	Graphical XML editor using QT4
